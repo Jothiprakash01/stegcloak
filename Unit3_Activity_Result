@@ -1,0 +1,14 @@
+# Activity Unit 3: Steganography
+
+## Selected Task
+Hide secrets with invisible characters in plain text securely using passwords
+
+## Project Reference
+- Topic: Steganography
+- Implementation: StegCloak (Pure JS / Node.js library for invisible character steganography)
+
+## Execution Details
+- Cover Text: "Hello teacher, this is my Unit 3 steganography assignment."
+- Secret Message: "My secret message is successfully hidden inside!"
+- Security: Encrypted using password protection and zero-width invisible Unicode characters.
+- Verification: Message successfully embedded and extracted using the decryption passkey.
